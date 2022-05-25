@@ -1,0 +1,22 @@
+-bash-4.2$ du -h --max-depth=1 13_orioledb/data/
+41G     13_orioledb/data/pg_wal
+568K    13_orioledb/data/global
+0       13_orioledb/data/pg_commit_ts
+0       13_orioledb/data/pg_dynshmem
+0       13_orioledb/data/pg_notify
+0       13_orioledb/data/pg_serial
+0       13_orioledb/data/pg_snapshots
+192K    13_orioledb/data/pg_subtrans
+0       13_orioledb/data/pg_twophase
+16K     13_orioledb/data/pg_multixact
+3.8G    13_orioledb/data/base
+0       13_orioledb/data/pg_replslot
+0       13_orioledb/data/pg_tblspc
+0       13_orioledb/data/pg_stat
+28K     13_orioledb/data/pg_stat_tmp
+27M     13_orioledb/data/pg_xact
+4.0K    13_orioledb/data/pg_logical
+23G     13_orioledb/data/orioledb_data
+40G     13_orioledb/data/orioledb_undo
+4.0K    13_orioledb/data/log
+106G    13_orioledb/data/
